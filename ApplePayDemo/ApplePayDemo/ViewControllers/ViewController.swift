@@ -8,6 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-}
+final class ViewController: UIViewController {
 
+    @IBOutlet private weak var paymentStatusLabel: UILabel!
+
+}
