@@ -2,7 +2,7 @@
 
 > Xcode 11.4.1 에서 만들어진 Project file 입니다.
 
-**let us: Go! 2020 Summer** 에서 발표한 **포스트 Apple Pay 시대를 대비합시다.** 에서 사용된 Demo Project 리포지토리 입니다.
+[**let us: Go! 2020 Summer**](https://let-us-go-2020-summer.vercel.app/) 에서 발표한 **포스트 Apple Pay 시대를 대비합시다.** 에서 사용된 Demo Project 리포지토리 입니다.
 
 ViewController | PaymentSheet on ViewController
 ---|---
